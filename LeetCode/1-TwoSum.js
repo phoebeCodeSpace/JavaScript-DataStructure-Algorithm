@@ -1,5 +1,5 @@
 /**
-  * @see https: //leetcode.com/problems/two-sum/description/
+  * @see {https: //leetcode.com/problems/two-sum/description/}
   * @description 给定一个整型数组， 找出能相加起来等于一个特定目标数字的两个数
   * @param {number[]} nums 整型数组
   * @param {number} target 目标数字

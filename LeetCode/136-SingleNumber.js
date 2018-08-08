@@ -1,5 +1,5 @@
 /**
- * @see https: //leetcode.com/problems/single-number/description/
+ * @see {https: //leetcode.com/problems/single-number/description/}
  * @description 给定一个整型数组， 除了某一个数字展示一次， 其他每个数字展示两次，找出这一个数字
  * @param {number[]} nums 整型数组
  * @return {number} 

@@ -1,5 +1,5 @@
 /**
- * @see https: //leetcode.com/problems/word-pattern/description/
+ * @see {https: //leetcode.com/problems/word-pattern/description/}
  * @description  给出一个模板和一串字符串，判断字符串是否符合模板模型
  * @example 
  * ```
