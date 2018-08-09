@@ -1,5 +1,5 @@
 /**
- * @see {https: //leetcode.com/problems/to-lower-case/description/}
+ * @see {@link https://leetcode.com/problems/to-lower-case/description/}
  * @description 将给定的字符串转化为小写
  * @description destructuring and map
  * @param {string} str
