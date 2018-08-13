@@ -6,7 +6,7 @@
 
 ### 20180807
 
-- [x] [1-TwoSum](./136-SingleNumber.js)
+- [x] [1-TwoSum](./1-TwoSum.js)
 - [x] [709-ToLowerCase](https://github.com/phoebeCodeSpace/algorithm/blob/master/LeetCode/709-ToLowerCase.js)
 
 ### 20180808
