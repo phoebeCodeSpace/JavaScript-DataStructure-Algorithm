@@ -25,8 +25,8 @@
 
 ### 20180814
 
-- [x] [0575-DistributeCandies](./0575-DistributeCandies)  难度：★☆☆☆☆
-- [x] [0812-LargestTriangleArea](./0812-LargestTriangleArea)  难度：★★☆☆☆
+- [x] [0575-DistributeCandies](./0575-DistributeCandies.js)  难度：★☆☆☆☆
+- [x] [0812-LargestTriangleArea](./0812-LargestTriangleArea.js)  难度：★★☆☆☆
 
 ## 按类型归类
 
