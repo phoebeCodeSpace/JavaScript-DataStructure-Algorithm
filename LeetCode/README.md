@@ -23,6 +23,11 @@
 - [x] [0066-PlusOne](./0066-PlusOne.js)
 - [x] [0020-ValidParentheses](./0020-ValidParentheses.js)
 
+### 20180814
+
+- [x] [0575-DistributeCandies](./0575-DistributeCandies)  难度：★☆☆☆☆
+- [x] [0812-LargestTriangleArea](./0812-LargestTriangleArea)  难度：★★☆☆☆
+
 ## 按类型归类
 
 ### 成对类型

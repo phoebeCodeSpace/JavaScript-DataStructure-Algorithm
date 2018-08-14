@@ -1,5 +1,5 @@
 /**
- * @link {@see https://leetcode.com/problems/valid-parentheses/description/}
+ * @see {@link  https://leetcode.com/problems/valid-parentheses/description/ }
  * @description 校验一串包含 '(', ')', '{', '}', '[' , ']'的字符串是否是符合规范的，符合规则的情况是：
  * 1. 左括号与右括号类型相同
  * 2. 左括号相对应的右括号必须在对应的位置上
