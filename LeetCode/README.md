@@ -32,6 +32,11 @@
 
 - [x] [0819-MostCommonWord](./0819-MostCommonWord.js)  难度：★★☆☆☆
 
+### 20180816
+
+- [x] [0242-ValidAnagram](./0242-ValidAnagram/js)  难度：★☆☆☆☆
+- [x] [0171-ExcelSheetColumnNumber](./0171-ExcelSheetColumnNumber.js)  难度：★★☆☆☆
+
 ## 按类型归类
 
 ### 成对类型
