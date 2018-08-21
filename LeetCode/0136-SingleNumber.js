@@ -6,6 +6,7 @@
  */
 
 // 思路： 通过位运算重复的字符串两两相抵为0，0^singleNumber 返回 singleNumber
+// 异或具有交换律
 var singleNumber = function(nums) {
     return nums.reduce((a, b) => a ^ b);
 };
