@@ -26,6 +26,7 @@
  var singleNumber = function(nums) {
      var t = nums.reduce((t, n) => t ^ n, 0); // 获得这两个数xor的结果
      // 一个数变成负的，2's complement的情况就是取反加一。
+     // 
      t = -t & t;
      return nums.reduce((r, n) => (n & t) ? [r[0] ^ n, r[1]] : [r[0], r[1] ^ n], [0, 0]);
  };

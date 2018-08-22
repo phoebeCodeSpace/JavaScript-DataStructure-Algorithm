@@ -43,12 +43,16 @@
 
 ### 20180820
 
-- [ ] [0137-SingleNumber-II.js](./0137-SingleNumber-II.js)
-- [ ] [0260-SingleNumber-III.js](./0260-SingleNumber-III.js)
+- [ ] [0137-SingleNumber-II](./0137-SingleNumber-II.js)
+- [ ] [0260-SingleNumber-III](./0260-SingleNumber-III.js)
 
 ### 20180821
 
-- [x] [0189-RotateArray.js](./0189-RotateArray.js)
+- [x] [0189-RotateArray.js](./0189-RotateArray.js) 难度：★☆☆☆☆
+
+### 20180822
+
+- [x] [0643-MaximumAverageSubarray-I](./0643-MaximumAverageSubarray-I.js) 难度：★★☆☆☆
 
 ## 按类型归类
 
@@ -57,6 +61,6 @@
 - WordPattern
 - ValidParentheses
 
-## 大数相加
+## 大数相加的陷阱
 
 - PlusOne
