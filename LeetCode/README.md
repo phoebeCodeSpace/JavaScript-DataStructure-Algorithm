@@ -54,6 +54,15 @@
 
 - [x] [0643-MaximumAverageSubarray-I](./0643-MaximumAverageSubarray-I.js) 难度：★★☆☆☆
 
+### 20180823
+
+- [x] [0438-FindAllAnagramsInAString](./0438-FindAllAnagramsInAString.js) 难度：★★☆☆☆
+- [x] [0567-PermutationInString](./0567-PermutationInString.js) 难度：★★☆☆☆
+
+### 20180824
+
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+
 ## 按类型归类
 
 ### 成对类型
@@ -61,6 +70,12 @@
 - WordPattern
 - ValidParentheses
 
-## 大数相加的陷阱
+### 大数相加的陷阱
 
 - PlusOne
+
+### 相同字母异序词 Anagrams
+
+- [ValidAnagram](./0242-ValidAnagram/js)  难度：★☆☆☆☆
+- [FindAllAnagramsInAString](./0438-FindAllAnagramsInAString.js)  难度：★★☆☆☆
+- [PermutationInString](./0567-PermutationInString.js)  难度：★★☆☆☆
