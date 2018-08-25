@@ -61,7 +61,12 @@
 
 ### 20180824
 
+- [x] [0205-IsomorphicStrings](./0205-IsomorphicStrings.js) 难度：★★☆☆☆
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+
+### 20180825
+
+- [x] [0015-3Sum](./0015-3Sum.js) 难度：★★★☆☆
 
 ## 按类型归类
 
