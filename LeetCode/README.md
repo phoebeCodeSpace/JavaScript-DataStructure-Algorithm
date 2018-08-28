@@ -72,6 +72,10 @@
 
 - [x] [0009-PalindromeNumber](./0009-PalindromeNumber.js) 难度：★☆☆☆☆
 
+### 20180828
+
+- [x] [0018-4Sum](./0018-4Sum.js) 难度：★★★☆☆
+
 ## 按类型归类
 
 ### 成对类型
@@ -88,3 +92,9 @@
 - [ValidAnagram](./0242-ValidAnagram/js)  难度：★☆☆☆☆
 - [FindAllAnagramsInAString](./0438-FindAllAnagramsInAString.js)  难度：★★☆☆☆
 - [PermutationInString](./0567-PermutationInString.js)  难度：★★☆☆☆
+
+### 求和
+
+- [0001-TwoSum](./0001-TwoSum.js)
+- [0015-3Sum](./0015-3Sum.js)
+- [0018-4Sum](./0018-4Sum.js)
