@@ -80,6 +80,14 @@
 
 - [x] [0454-4Sum-II](./0454-4Sum-II.js) 难度：★★☆☆☆
 
+### 20180831
+
+- [x] [0014-LongestCommonPrefix](./0014-LongestCommonPrefix.js) 难度：★☆☆☆☆
+
+### 20180904
+
+- [x] [0013-RomanToInteger](./0013-RomanToInteger.js) 难度：★☆☆☆☆
+
 ## 按类型归类
 
 ### 成对类型
@@ -103,3 +111,6 @@
 - [0015-3Sum](./0015-3Sum.js)
 - [0018-4Sum](./0018-4Sum.js)
 - [0454-4Sum-II](./0454-4Sum-II.js)
+
+### 回文
+
