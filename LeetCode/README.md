@@ -88,6 +88,10 @@
 
 - [x] [0013-RomanToInteger](./0013-RomanToInteger.js) 难度：★☆☆☆☆
 
+### 20180906
+
+- [x] [0067-AddBinary](./0067-AddBinary.js) 难度：★★☆☆☆
+
 ## 按类型归类
 
 ### 成对类型
