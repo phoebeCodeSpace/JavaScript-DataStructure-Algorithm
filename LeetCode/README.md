@@ -92,6 +92,11 @@
 
 - [x] [0067-AddBinary](./0067-AddBinary.js) 难度：★★☆☆☆
 
+### 20180907
+
+- [x] [0050-Pow](./0050-Pow.js) 难度：★★☆☆☆
+- [x] [0003-LongestSubstringWithoutRepeatingCharacters](./0003-LongestSubstringWithoutRepeatingCharacters.js) 难度：★★★☆☆
+
 ## 按类型归类
 
 ### 成对类型
@@ -118,3 +123,6 @@
 
 ### 回文
 
+### 运算
+
+- [Pow](./0050-Pow.js)
