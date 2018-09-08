@@ -97,6 +97,10 @@
 - [x] [0050-Pow](./0050-Pow.js) 难度：★★☆☆☆
 - [x] [0003-LongestSubstringWithoutRepeatingCharacters](./0003-LongestSubstringWithoutRepeatingCharacters.js) 难度：★★★☆☆
 
+### 20180908
+
+- [x] [0409-LongestPalindrome](./0409-LongestPalindrome.js) 难度：★☆☆☆☆
+
 ## 按类型归类
 
 ### 成对类型
@@ -120,8 +124,6 @@
 - [0015-3Sum](./0015-3Sum.js)
 - [0018-4Sum](./0018-4Sum.js)
 - [0454-4Sum-II](./0454-4Sum-II.js)
-
-### 回文
 
 ### 运算
 
